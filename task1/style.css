@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+
+table {
+  border: 5px solid crimson;
+  width: 100%;
+  height: 500px;
+  border-collapse: collapse;
+}
+
+tr {
+  color: white;
+  font-size: 30px;
+  font-family: cursive;
+  border: 5px solid crimson;
+}
+
+td,
+th {
+  border: 5px solid orangered;
+}
+
+tr:hover {
+  background-color: aliceblue;
+  color: black;
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  transition: 1s;
+}
+
+li::selection {
+  background-color: orangered;
+}
+
+th::selection {
+  background-color: blueviolet;
+}

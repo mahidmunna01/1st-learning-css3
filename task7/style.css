@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(225, 226, 226);
+}
+
+form{
+  text-align: center;
+}
+input{
+  border: 2px solid orangered;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 5px;
+  font-family: cursive;
+}
+h2{
+  text-align: center;
+  color: orangered;
+  font-family: cursive;
+  font-size: 35px;
+}

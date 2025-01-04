@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+  font-family: cursive;
+  color: white;
+}
+
+div{
+  display: inline-block;
+  margin: 5% 15%;
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 150px;
+  border-radius: 5px;
+}
+h1,h2{
+  color: #00532C;
+}
+
+a{
+  text-decoration: none;
+  color:#00532C;
+  
+}

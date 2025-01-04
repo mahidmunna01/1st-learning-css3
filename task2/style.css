@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(0, 0, 0);
+  font-family: cursive;
+  text-align: center;
+  
+}
+
+h1 {
+  font-family: cursive;
+  border: 5px solid;
+  border-color: aliceblue;
+}
+
+a {
+  text-decoration: none;
+  color: orangered;
+}
+
+h2 {
+  border: 5px solid;
+  color: rgb(255, 255, 255);
+  border-color: orangered
+}
+
+p {
+  border: 5px solid;
+  color: aliceblue;
+}
+
+h3 {
+  color: aliceblue;
+}
+
+h4 {
+  color: aliceblue;
+}
+
+address {
+  color: aliceblue;
+}
+
+h3,
+h4,
+address {
+  border: 5px solid;
+}
